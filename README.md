@@ -5,7 +5,7 @@ Gold collection is an offline game made in unity. The player has to collect only
 </br></br>
 
 
-- 🔭 You can try the game [here.](https://github.com/NeplayGames/Gold-Collection.git)
+🔭 You can try the game [here.](https://github.com/NeplayGames/Gold-Collection.git)
 
 
 <h3 align="left">Connect with me:</h3>
